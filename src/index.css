@@ -1,0 +1,9 @@
+@import './styles/global.css';
+
+:root {
+  color-scheme: dark;
+}
+
+#root {
+  width: 100%;
+}
